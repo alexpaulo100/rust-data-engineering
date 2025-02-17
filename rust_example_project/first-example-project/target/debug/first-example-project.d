@@ -1,0 +1,1 @@
+/workspaces/rust-data-engineering/rust_example_project/first-example-project/target/debug/first-example-project: /workspaces/rust-data-engineering/rust_example_project/first-example-project/src/main.rs
