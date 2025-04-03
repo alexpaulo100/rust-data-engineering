@@ -1,0 +1,11 @@
+/home/alexs/projetos/rust-data-engineering/cli-customize-fruit-salad/target/debug/deps/librand_core-cda32bf70ee03cef.rmeta: /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/alexs/projetos/rust-data-engineering/cli-customize-fruit-salad/target/debug/deps/librand_core-cda32bf70ee03cef.rlib: /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/alexs/projetos/rust-data-engineering/cli-customize-fruit-salad/target/debug/deps/rand_core-cda32bf70ee03cef.d: /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs:
+/home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs:
+/home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs:
+/home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs:
+/home/alexs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs:

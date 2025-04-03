@@ -1,0 +1,1 @@
+/home/alexs/projetos/rust-data-engineering/cli-customize-fruit-salad/target/debug/cli-customize-fruit-salad: /home/alexs/projetos/rust-data-engineering/cli-customize-fruit-salad/src/lib.rs /home/alexs/projetos/rust-data-engineering/cli-customize-fruit-salad/src/main.rs
