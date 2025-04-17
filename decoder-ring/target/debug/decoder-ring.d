@@ -1,0 +1,1 @@
+/home/alexs/projetos/rust-data-engineering/decoder-ring/target/debug/decoder-ring: /home/alexs/projetos/rust-data-engineering/decoder-ring/src/lib.rs /home/alexs/projetos/rust-data-engineering/decoder-ring/src/main.rs
